@@ -24,7 +24,8 @@
 ```
 
 **🔑 Obtenção das Credenciais da API**
-[Telegram](my.telegram.org)
+
+<a href="https://my.telegram.org/auth" target="_blank">Telegram API</a>
 
 ---
 
